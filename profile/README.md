@@ -6,4 +6,4 @@ We are here in stealth mode, so shhhhhh 😉 😉 😉
 
 You will find here **non official** repositories for our demos, talks and tutorials, and lot of *work in progress* content.
 
-![DevRel Dream Team](./img/devrel-dream-team.jpg}
+![DevRel Dream Team](./img/devrel-dream-team.jpg)
